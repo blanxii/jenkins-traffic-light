@@ -1,6 +1,6 @@
 # 🚦 Jenkins traffic light
 
-!(https://raw.githubusercontent.com/blanxii/jenkins-traffic-light/master/example.gif)
+![jenkis traffic light](https://raw.githubusercontent.com/blanxii/jenkins-traffic-light/master/example.gif)
 
 ### Pre-Requisits
 - [JQ](https://stedolan.github.io/jq/)
