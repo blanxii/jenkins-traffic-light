@@ -1,5 +1,7 @@
 # 🚦 Jenkins traffic light
 
+!(https://raw.githubusercontent.com/blanxii/jenkins-traffic-light/master/example.gif)
+
 ### Pre-Requisits
 - [JQ](https://stedolan.github.io/jq/)
 - [mpg123](http://www.linux-mag.com/id/7838/)
@@ -18,7 +20,6 @@ Just set your config variables and run the script.
 - DEVICE_NO= clearwarecontrol device number
 - SOUND_FAILED= sound to play when the pipeline is red
 - SOUND_SUCCESS= sound to play when the pipeline is green
--
 
 ## License
 This project is released under the [WTFPL LICENSE](http://www.wtfpl.net/ "WTFPL LICENSE").
